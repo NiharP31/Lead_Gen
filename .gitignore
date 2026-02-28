@@ -1,0 +1,18 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/*.json
+output/*.csv
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Docker
+.docker/
